@@ -1,0 +1,9 @@
+.container {
+  margin-bottom: 5em;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

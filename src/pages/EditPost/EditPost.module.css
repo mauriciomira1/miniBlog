@@ -1,0 +1,32 @@
+.edit_post {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.edit_post h1 {
+  text-align: center;
+  font-size: 2.5em;
+  color: #242424;
+  margin-top: .8em;
+}
+
+.edit_post p {
+  text-align: center;
+  font-size: 1.2em;
+  color: #bbb;
+  margin: 10px 0 0 0;
+}
+
+.edit_post .preview_title {
+  margin-bottom: .3em;
+  color: #000;
+  font-weight: bold;
+  font-size: .8em;
+}
+
+.edit_post .image_preview {
+  max-width: 100%;
+  margin-bottom: 1em;
+}
