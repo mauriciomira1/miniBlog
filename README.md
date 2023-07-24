@@ -1,3 +1,8 @@
 # miniBlog
  
-Criação de um miniBlog simples usando principalmente React, Firebase e Vite
+Criação de um miniBlog simples
+
+# Foi utilizado principalmente:
+ 1) React
+ 2) Firebase
+ 3) Vite
