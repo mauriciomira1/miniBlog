@@ -23,7 +23,7 @@ const Home = () => {
     }
   };
 
-  const user = useAuthentication();
+  /*   const user = useAuthentication(); */
 
   return (
     <div className={styles.home}>
